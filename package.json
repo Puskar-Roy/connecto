@@ -1,5 +1,5 @@
 {
-  "name": "random-chat",
+  "name": "connecto",
   "private": true,
   "scripts": {
     "build": "turbo build",
